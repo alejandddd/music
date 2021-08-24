@@ -13,6 +13,6 @@ pause_btn.addEventListener('click',()=>{
     img.style.animationPlayState = "paused"
 })
 stop_btn.addEventListener('click',()=>{
-    audio.pause();
+    audio.load();
     img.style.animationPlayState = "paused"
 })
