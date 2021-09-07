@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
     <title>Dom</title>
 </head>
 <body>
@@ -16,10 +17,25 @@
         <div class="titulo">
             Chase Atlantic - moonlight
         </div>
+            <div>
+            <input type="range" id="tiempo" min="0">
+        </div>
         <div class="botones">
-            <button class="a" id="play">play</button>
-            <button class="b" id="pause">pausa</button>
-            <button class="c" id="stop">stop</button>
+            <button class="a" id="play">
+                <i id="play-icon" class="btn-size1 far fa-play-circle"></i>
+            </button>
+            <button class="b" id="pause">
+                <i class="btn-size2 far fa-pause-circle"></i>
+            </button>
+            <button class="c" id="stop">
+                <i class="btn-size3 fas fa-redo-alt"></i>
+            </button>
+            <button id="volume-up" class="mas" >
+                <i class="mn1 fas fa-volume-up"></i>
+            </button>
+            <button id="volume-down" class="menos">
+                <i class="mn fas fa-volume-down"></i>
+            </button>
         </div>
         </div>
     </div>
