@@ -47,21 +47,21 @@
     font-size:20px;
 }
 .a{
-    height: 30px;
-    width: 45px;
-    margin-left: 30%;
+    height: 40px;
+    width: 40px;
+    margin-left: 24%;
     margin-top: 20px;
     padding: 1em, 1em, 1em, 1em;
     background-color: rgb(128, 108, 245);
     
     color: white;
     border-color: rgba(241, 58, 241, 0);
-    border-radius: 20px;
+    border-radius: 50%;
     
 }
 .b{
-    height: 30px;
-    width: 45px;
+    height: 40px;
+    width: 40px;
     margin-right: 10px;
     margin-left: 10px;
     margin-top: 20px;
@@ -69,18 +69,18 @@
     background-color: rgb(128, 108, 245);
     color: white;
     border-color: rgba(241, 58, 241, 0);
-    border-radius: 20px;
+    border-radius: 50%;
 }
 .c{
-    height: 30px;
-    width: 45px;
+    height: 40px;
+    width: 40px;
     
     margin-top: 20px;
     padding: 1em, 1em, 1em, 1em;
     background-color: rgb(128, 108, 245);
     color: white;
     border-color: rgba(241, 58, 241, 0);
-    border-radius: 20px;
+    border-radius: 50%;
 }
 .btn-size1{
     font-size: 1.5em;
