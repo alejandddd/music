@@ -82,3 +82,45 @@
     border-color: rgba(241, 58, 241, 0);
     border-radius: 20px;
 }
+.btn-size1{
+    font-size: 1.5em;
+}
+.btn-size2{
+    font-size: 1.5em;
+}
+.btn-size3{
+    font-size: 1.4em;
+}
+#tiempo{
+    width: 100%;
+}
+.mas{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 1em, 1em, 1em, 1em;
+    background-color: rgb(128, 108, 245);
+    color: white;
+    border-color: rgba(241, 58, 241, 0);
+    border-radius: 50%;
+    
+}
+.mn1{
+    font-size: 1.4em;
+}
+.menos{
+    height: 40px;
+    width: 40px;
+
+    margin-top: 20px;
+    padding: 1em, 1em, 1em, 1em;
+    background-color: rgb(128, 108, 245);
+    color: white;
+    border-color: rgba(241, 58, 241, 0);
+    border-radius: 50%;
+}
+.mn{
+    font-size: 1.4em;
+}
